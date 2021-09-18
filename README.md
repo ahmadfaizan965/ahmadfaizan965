@@ -5,12 +5,13 @@ Looking for an entry-level position as a Software Engineer in a dynamic firm tha
 
 ### Languages Known:
   1. HTML5
-  1. CSS3
-  1. JavaScript
-  1. Python
+  2. CSS 3
+  3. JavaScript
+  4. Python
 ### Libraries & Frameworks:
-  1. Jquery
-  1. Bootstrap
+  1. NodeJS
+  2. ExpressJS
+  3. Bootstrap
   1. Django 
 ### Database (about to learn):
   1. MongoDB

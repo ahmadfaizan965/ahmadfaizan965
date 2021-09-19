@@ -8,12 +8,13 @@ Looking for an entry-level position as a Software Engineer in a dynamic firm tha
   2. CSS 3
   3. JavaScript
   4. Python
+  5. NodeJS
 ### Libraries & Frameworks:
-  1. NodeJS
+  1. EJS
   2. ExpressJS
   3. Bootstrap
-  1. Django 
-### Database (about to learn):
+### Database:
   1. MongoDB
-  1. MySQL
+  2. MySQL
+  3. MongooseDB
 

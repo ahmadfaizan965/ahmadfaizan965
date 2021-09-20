@@ -1,7 +1,7 @@
 ### Hi there 👋 Its, 
 
-# Mohammad Faizan Ahmad
-Looking for an entry-level position as a Software Engineer in a dynamic firm that values my programming skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
+# Md. Faizan Ahmad
+Looking for an entry-level position as a web app developer in a dynamic firm that values my programming skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
 
 ### Languages Known:
   1. HTML5

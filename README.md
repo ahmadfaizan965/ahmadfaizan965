@@ -1,6 +1,9 @@
 ### Hi there 👋 Its, 
 
 # Md. Faizan Ahmad
+<br>
+<img align="right" alt="Coding" width="400"  height="400" src="https://tenor.com/bqrUA.gif">
+<br>
 Looking for an entry-level position as a web app developer in a dynamic firm that values my programming skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
 
 ### Languages Known:

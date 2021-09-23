@@ -2,7 +2,7 @@
 
 # Md. Faizan Ahmad
 <hr>
-<img align="center" alt="abstract" width="650"  height="400" src="https://giphy.com/gifs/trippy-abstract-pi-slices-3oz8xus1ykCFgxW2ac">
+<img align="center" alt="abstract" width="650"  height="400" src="https://tenor.com/bafFj.gif">
 <br>
 Looking for an entry-level position as a web app developer in a dynamic firm that values my programming skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
 

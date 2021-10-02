@@ -2,9 +2,12 @@
 
 # Md. Faizan Ahmad
 
-<img align="center" alt="abstract" width="100%vw"  height="500px" src="https://c.tenor.com/G7WqdFqCeiEAAAAC/free-wavy.gif">
+<img align="center" alt="abstract" width="100%vw"  height="500px" src="">
 <br>
 Looking for an entry-level position as a web app developer in a dynamic firm that values my programming skills and provides scope for updating my knowledge, I seek a company that will help me contribute to its development while concurrently aiding my personal growth.
+
+# Projects:
+1. Newsletter Sign Up: https://vast-beach-98642.herokuapp.com/
 
 ### Languages Known:
   1. HTML5

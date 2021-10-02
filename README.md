@@ -21,3 +21,9 @@ Looking for an entry-level position as a web app developer in a dynamic firm tha
   1. MongoDB
   2. MySQL
   3. MongooseDB
+
+### Graphic & Motion Design:
+1. Adobe Photoshop
+2. Adobe Illustrator
+3. Adobe After Effects
+

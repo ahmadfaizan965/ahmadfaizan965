@@ -21,6 +21,3 @@ Looking for an entry-level position as a web app developer in a dynamic firm tha
   1. MongoDB
   2. MySQL
   3. MongooseDB
-
-
-<img align="center" alt="Clean Setup" width="100%vw"  height="auto" src="linux.png">

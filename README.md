@@ -7,23 +7,4 @@ Looking for an entry-level position as a web app developer in a dynamic firm tha
 ## Projects 🚀:
 1. Newsletter Sign Up: https://vast-beach-98642.herokuapp.com/
 
-### Languages Known:
-  1. HTML5
-  2. CSS 3
-  3. JavaScript
-  4. Python
-  5. NodeJS
-### Libraries & Frameworks:
-  1. EJS
-  2. ExpressJS
-  3. Bootstrap
-### Database:
-  1. MongoDB
-  2. MySQL
-  3. MongooseDB
-
-### Graphic & Motion Design:
-1. Adobe Photoshop
-2. Adobe Illustrator
-3. Adobe After Effects
-
+<img src="./code.png" alt="Object" style="height: 100%; width:100%;">
